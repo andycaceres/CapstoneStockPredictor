@@ -1,0 +1,8 @@
+pandas
+pandas_datareader
+datetime
+numpy
+matplotlib
+mljar-mercury
+scikit-learn
+tensorflow
